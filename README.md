@@ -1,10 +1,10 @@
 # Dynamic-Programming-in-Cpluplus
-This repo shares examples of programs written with the algorithmic-design paradigm called "Dynamic Programming." It is an approach at optimizing mainly recursive algorithms by transforming a complex problem into a sequence of simpler iterative steps. Many of the examples will be implemented in code that was inspired by classes I've taken.
+This repo shares examples of programs written with the algorithmic-design paradigm called "[Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)." It is an approach at optimizing mainly recursive algorithms by transforming a complex problem into a sequence of simpler iterative steps. Many of the examples will be implemented in code that was inspired by classes I've taken.
 
 ---
 
 **As Dasgupta et. al explain:**
-> [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) is a very powerful algorithmic paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one, smallest first, using the answers to small problems to help figure out larger ones, until the whole lot of them is solved (Algorithms 170).
+> Dynamic programming is a very powerful algorithmic paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one, smallest first, using the answers to small problems to help figure out larger ones, until the whole lot of them is solved (Algorithms 170).
 
 ---
 
