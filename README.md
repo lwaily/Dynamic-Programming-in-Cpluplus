@@ -18,3 +18,6 @@ This repo shares examples of programs written with the algorithmic-design paradi
 7. Offer a Correctness Proof and Runtime Analysis.
 > (The steps written in this order and wording were mainly taken from Professor Miles Jones' CSE 101 lectures at UCSD.)
 
+---
+
+Most (if not all) of the programs in this repo will be based off of *Algorithms* by Dasgupta, Papadimitriou, and Vazirani.
