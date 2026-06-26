@@ -17,9 +17,8 @@ unsigned int fib_DP(unsigned int n);
 int main(){
     unsigned int input;
     cout << "Insert a positive integer: ";
-    cin >> input;
-    cout << "The " << input << "-Fibonacci number is: "
-            << fib_DP(input) << endl;
+    cin  >> input;
+    cout << "The " << input << "-Fibonacci number is: " << fib_DP(input) << endl;
     return 0;
 }
 
