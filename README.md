@@ -13,11 +13,11 @@ This repo shares examples of programs written with the algorithmic-design paradi
 2. What are the base cases.
 3. Give the recurrence for sub-problems (case analysis).
 4. Order the subproblems (*example: For a certain problem, it may be the case that each subproblem is dependent on subproblems of a smaller index so you would order the subproblems from 0 up to n* (see the Fibonacci program as an example)).
-5. What is the final output (usually the last computed value?
-6. Put it all together into an iterative algorithm that fills in the array step-by-step.
+5. What is the final output (usually the last computed value)?
+6. Put it all together into an iterative algorithm that fills in the array step-by-step (typically pseudo-code).
 7. Offer a Correctness Proof and Runtime Analysis.
 > (The steps written in this order and wording were mainly taken from Professor Miles Jones' CSE 101 lectures at UCSD.)
 
 ---
 
-Most (if not all) of the programs in this repo will be based off of *Algorithms* by Dasgupta, Papadimitriou, and Vazirani.
+Most (if not all) of the programs in this repo will be based off of problems from *Algorithms* by Dasgupta, Papadimitriou, and Vazirani.
