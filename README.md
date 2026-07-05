@@ -8,7 +8,7 @@ This repo shares examples of programs written with the algorithmic-design paradi
 
 ---
 
-**There are seven main steps to follow in designing an algorithm with Dynamic Programming:**
+### **There are seven main steps to follow in designing an algorithm with Dynamic Programming:**
 1. Define sub-problems and corresponding array (What are the array values supposed to mean?).
 2. What are the base cases.
 3. Give the recurrence for sub-problems (case analysis).
@@ -21,3 +21,10 @@ This repo shares examples of programs written with the algorithmic-design paradi
 ---
 
 Most (if not all) of the programs in this repo will be based off of problems from *Algorithms* by Dasgupta, Papadimitriou, and Vazirani.
+
+---
+
+### **List of contents of this repo:**
+- Fibonacci 
+- Coin Denominations
+- _Coming soon!_
