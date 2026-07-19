@@ -21,7 +21,7 @@
  *              C - O R - E
  *          Here, we added many more gaps.
  *          Ultimately, "the *edit distance* between two strings is the cost of
- *          their best possible alignment." There is not a better alignment for
+ *          their best possible alignment" (ibid). There is not a better alignment for
  *          'SHORE' and 'CORE' than with a cost of 2.
  * In general: There are three types of modifications we can make: Insertions,
  *          Deletions, and Substitutions (more information below).
