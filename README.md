@@ -25,6 +25,7 @@ Most (if not all) of the programs in this repo will be based off of problems fro
 ---
 
 ### **List of contents of this repo:**
-- Fibonacci 
+- Fibonacci Sequence
 - Coin Denominations
+- Edit Distance
 - _Coming soon!_
